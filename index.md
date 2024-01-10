@@ -1,16 +1,16 @@
 # Introduction to single-cell RNA-seq data analysis
 
-### 27, 28, 29 Sep || 09:30 - 17:30
-#### In-person at the Craik Marshall training room ([map](https://goo.gl/maps/TF6cmuc2EjVhLTfG6))
+### 19, 26 Jan and 02 Feb || 09:30 - 17:30
+#### Online via Zoom
 
 ![](UnivCambridge_ScRnaSeqIntro_Base/Images/uniOfCamCrukLogos.png)
 
 ## Instructors
 
 * Abigail Edwards - Bioinformatics Core, Cancer Research UK Cambridge Institute
-* Ashley Sawle - Bioinformatics Core, Cancer Research UK Cambridge Institute
-* Chandra Chilamakuri - Bioinformatics Core, Cancer Research UK Cambridge Institute
-* Ian Tsang - NIAB, Cambridge
+* Adam Reid - Bioinformatics Core, Gurdon Institute
+* Jiawei Wang - EBI
+* Jiayin Hong - Department of Biochemistry
 * Jon Price - Biochemistry Department, University of Cambridge
 * Katarzyna Kania - Genomics Core, Cancer Research UK Cambridge Institute
 
@@ -55,9 +55,9 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 
 ### Day 1
 
-Trainers: Ashley Sawle, Chandra Chilamakuri, Ian Tsang, Jon Price, Katarzyna Kania
+Trainers: Abbi, Adam, Jiayin, Jon
 
-* 09:30 - 09:40 **Welcome**
+* 09:30 - 09:40 **Welcome** - Abbi
 * 09:40 - 10:25 **Introduction to Single Cell Technologies** - Katarzyna Kania
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf)
 * 10:25 - 10:30 - **Break**
@@ -67,7 +67,7 @@ Trainers: Ashley Sawle, Chandra Chilamakuri, Ian Tsang, Jon Price, Katarzyna Kan
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12:30 - 13:30 **Lunch break**
-* 13:30 - 17:00 **QC and exploratory analysis** - Ash
+* 13:30 - 17:00 **QC and exploratory analysis** - Adam
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html)  
@@ -75,33 +75,33 @@ Trainers: Ashley Sawle, Chandra Chilamakuri, Ian Tsang, Jon Price, Katarzyna Kan
 
 ### Day 2
 
-Trainers: Ashley Sawle, Chandra Chilamakuri, Ian Tsang, Jon Price
+Trainers: Adam, Jiawei, Jiayin, Jon
 
-* 09:30 - 09:40 **Recap** - Ash
+* 09:30 - 09:40 **Recap** - Jon
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/00_Day1_Recap.html)
 * 09:40 - 12:30 **Normalisation** - Jon
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)    
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html)
 * 12:30 - 13:30 **lunch break**
-* 13:30 - 15:25 **Feature selection and dimensionality reduction** - Ash
+* 13:30 - 15:25 **Feature selection and dimensionality reduction** - Jiayin / Hugo
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html)
 * 15:25 - 15:35 10 min **break**
-* 15:35 - 17:30 **Batch correction and data set integration** - Chandra
+* 15:35 - 17:30 **Batch correction and data set integration** - Adam
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_Dataset_Integration.html)
 
 ### Day 3
 
-Trainers: Abbi Edwards, Chandra Chilamakuri, Ian Tsang, Jon Price, Katarzyna Kania
+Trainers: Abbi, Adam, Jiawei, Jiayin
 
-* 09:30 - 09:40 Recap - Chandra
-* 09:40 - 11:05 **Clustering** - Chandra
+* 09:30 - 09:40 Recap - Adam
+* 09:40 - 11:05 **Clustering** - Adam
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering.html)
 * 11:05 - 11:15 10 min **break**
-* 11:15 - 12:30 **Identification of cluster marker genes** - Abbi / Jon
+* 11:15 - 12:30 **Identification of cluster marker genes** - Jiawei / Abbi
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
@@ -139,8 +139,8 @@ See the [installation instructions from 10x Genomics](https://support.10xgenomic
 ## Acknowledgments:
 
 Much of the material in this course has been derived from the demonstrations found in
-[OSCA book](http://bioconductor.org/books/3.14/OSCA/)
-and the [Hemberg Group course materials](https://www.singlecellcourse.org/). Additional material concerning `miloR` has been based on the [demonstration from the Marioni Lab.](https://marionilab.github.io/miloR/articles/milo_demo.html)
+[OSCA book](https://bioconductor.org/books/release/OSCA/)
+and the [Hemberg Group course materials](https://www.singlecellcourse.org/). Additional material concerning `miloR` has been based on the [demonstration from the Marioni Lab](https://marionilab.github.io/miloR/articles/milo_demo.html).
 
 The materials have been contributed to by many individuals over the last 2 years, including:
 
