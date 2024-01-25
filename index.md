@@ -70,8 +70,9 @@ Trainers: Abbi, Adam, Jiayin, Jon
 * 13:30 - 17:00 **QC and exploratory analysis** - Adam
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
+        + [Demo live script](live_scripts/04_demonstration_live_script.R)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html)  
-
+        + [Exercise live script](live_scripts/04_exercise_live_script.R)
 
 ### Day 2
 
