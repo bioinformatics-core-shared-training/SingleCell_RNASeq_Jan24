@@ -102,7 +102,7 @@ Trainers: Abbi, Adam, Jiawei, Jiayin
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering.html)
 * 11:05 - 11:15 10 min **break**
-* 11:15 - 12:30 **Identification of cluster marker genes** - Jiawei / Abbi
+* 11:15 - 12:30 **Identification of cluster marker genes** - Abbi
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
