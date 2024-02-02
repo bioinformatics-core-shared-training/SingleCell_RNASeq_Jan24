@@ -107,7 +107,7 @@ Trainers: Abbi, Adam, Jiawei, Jiayin
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Abbi
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_DifferentialAnalysis.html) 
+    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_DifferentialExpressionAndAbundance.pdf) 
     + [Demonstration - Differential Expression](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_Differential_Expression.html)
     + [Demonstration - Differential Abundance](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/11_Differential_Abundance.html)
 
